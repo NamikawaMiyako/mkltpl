@@ -10,8 +10,11 @@ HTML側には出来るだけコードを書かずに使えるモノが良かっ�
 ■ sample html
 
 FILENAME:template.html
+
 <html>
+
   <head>
+  
     <title>%TITLE%</title>
   </head>
   <body>
