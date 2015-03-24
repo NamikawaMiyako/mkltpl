@@ -8,7 +8,7 @@ HTML側には出来るだけコードを書かずに使えるモノが良かっ�
 
 使い方
 ■ sample html
-
+<code>
 FILENAME:template.html
 
 <html>
@@ -24,7 +24,7 @@ FILENAME:template.html
  <!-- End BODY -->
   </body>
 </html>
-
+</code>
 
 ■ sample php
 
