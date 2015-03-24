@@ -15,7 +15,7 @@ FILENAME:template.html
     <title>%TITLE%</title>
   </head>
   <body>
-    <h1>%HEADER%</h1>
+    &lt;h1&gt;%HEADER%&lt;/h1&gt;
  <!-- Begin BODY -->
     <li>%TEXT%</li>
  <!-- End BODY -->
